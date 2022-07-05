@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html >
+<head>
+    
+    <title>Hello</title>
+    <style>
+        body{
+            background-color: blueviolet;
+        }
+        img{
+            width: 100px;
+            border: 2px solid red;
+            /* padding-left: 140px; */
+            margin-left: 180px;
+        }
+        h1{
+           color: brown;
+        }
+        /* span{
+            color: blue;
+        } */
+        #a1{
+            color: black;
+        }
+        #a2{
+            color: chartreuse;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1>Hello <span id="a1">Ram</span> is <span id="a2">dancing</span></h1>
+     <!-- <img src="./Working men.jpg" alt="code"> -->
+</body>
+</html>
